@@ -271,7 +271,7 @@ const MainContainer = () => {
             <img src={i4} alt="OGAWA" />
           </SwiperSlide>
         </Swiper>
-        <div className="flex flex-col items-center justify-center">
+        <div className="flex flex-col items-center justify-center mb-10">
           <h3 className="text-black text-3xl font-bold">AI</h3>
           <p className="text-gray-300">VIEW ALL COLLECTIONS</p>
         </div>
