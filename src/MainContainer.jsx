@@ -6,12 +6,12 @@ import { Autoplay, Pagination, Navigation } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
-import i1 from "./images/i1.png";
-import i2 from "./images/i2.png";
-import i3 from "./images/i3.png";
-import i4 from "./images/i4.png";
-import i5 from "./images/i5.png";
-import i6 from "./images/i6.png";
+import i1 from "./assets/images/i1.png";
+import i2 from "./assets/images/i2.png";
+import i3 from "./assets/images/i3.png";
+import i4 from "./assets/images/i4.png";
+import i5 from "./assets/images/i5.png";
+import i6 from "./assets/images/i6.png";
 
 const leftSlideIn = {
   hidden: { opacity: 0, x: -100 },

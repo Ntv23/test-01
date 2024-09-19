@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { IoIosSearch } from "react-icons/io";
 import { HiOutlineShoppingBag } from "react-icons/hi2";
 import { AiOutlineMenuFold } from "react-icons/ai";
-import logo from "../images/logo.svg";
+import logo from "../assets/images/logo.svg";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);

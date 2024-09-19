@@ -1,7 +1,8 @@
-import Banner from "./assets/component/Banner";
-import Header from "./assets/component/Header";
-import Footer from "./assets/component/Footer";
-import MainContainer from "./assets/MainContainer";
+import Banner from "./component/Banner";
+import Header from "./component/Header";
+import Footer from "./component/Footer";
+import MainContainer from "./MainContainer";
+
 function App() {
   return (
     <>

@@ -4,7 +4,7 @@ import {
   IoIosArrowUp,
   IoIosArrowForward,
 } from "react-icons/io";
-import certificate from "../images/certificate.png";
+import certificate from "../assets/images/certificate.png";
 
 const Footer = () => {
 
